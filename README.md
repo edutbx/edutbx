@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo Tebexerini Abreu</h1>
 
 <p align="center">
-  <b>DevSecOps Intern • Desenvolvedor de Software • Estudante de DSM na FATEC</b>
+  <b> • Desenvolvedor de Software • Estudante de DSM na FATEC</b>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma (FATEC Luigi Papaiz)** e formado como **Técnico em Informática para Internet (ETEC JKO)**.  
-Tenho interesse em desenvolvimento backend, segurança, cloud e aplicações reais de IA.  
+Sou estudante de **Desenvolvimento de Software Multiplataforma (FATEC Luigi Papaiz)** e formado como **Técnico em Informática para Internet (ETEC JK)**.  
+Tenho interesse em desenvolvimento front/backend, segurança, cloud e aplicações reais de IA.  
   
 Atuo desenvolvendo sistemas, aprendendo novas tecnologias diariamente e criando soluções práticas, escaláveis e com boa arquitetura.
 
@@ -33,7 +33,6 @@ Atuo desenvolvendo sistemas, aprendendo novas tecnologias diariamente e criando 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![IA](https://img.shields.io/badge/IA_Generativa-000?style=for-the-badge)
-![BPMN](https://img.shields.io/badge/BPMN-000?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns_(GoF)-000?style=for-the-badge)
 
 ---
