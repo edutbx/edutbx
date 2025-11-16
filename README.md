@@ -75,7 +75,6 @@ Desenvolvimento de soluções eficientes para desafios de tempo e otimização.
 ## 📬 Me encontre aqui
 
 📌 **LinkedIn:** https://linkedin.com/in/eduardo-tebexerini  
-💻 **GitHub:** https://github.com/edutbx  
 📧 **E-mail:** eduardo300tebex3@gmail.com  
 
 ---
