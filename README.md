@@ -26,6 +26,7 @@ Atuo desenvolvendo sistemas, aprendendo novas tecnologias diariamente e criando 
 ![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
 ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
