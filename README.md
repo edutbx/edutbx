@@ -64,14 +64,14 @@ Desenvolvimento de soluções eficientes para desafios de tempo e otimização.
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=edutbx&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edutbx&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edutbx&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edutbx&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
+</p>
 
 ---
+
 
 ## 📬 Me encontre aqui
 
