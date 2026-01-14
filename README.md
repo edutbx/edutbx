@@ -53,7 +53,7 @@ Desenvolvimento de soluções eficientes para desafios de tempo e otimização.
 
 ---
 
-## 🎓 Certificações
+## 🎓 Certificados
 
 - **AWS – Getting Started with Cloud Acquisition**  
 - **JavaScript Essentials 1 (Cisco)**  
